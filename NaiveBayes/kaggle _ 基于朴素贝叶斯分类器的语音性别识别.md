@@ -1,7 +1,7 @@
 ﻿
 # <center><font face="宋体"> kaggle|基于朴素贝叶斯分类器的语音性别识别 </font></center>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/Gender-Recognition/tree/master/NaiveBayes)</center>*
 
 **概要：** <font face="宋体" size = 3> 本实验基于kaggle上的一个[数据集](https://www.kaggle.com/primaryobjects/voicegender/home)，采用朴素贝叶斯分类器，实现了通过语音识别说话人性别的功能。本文将简要介绍这一方法的原理、代码实现以及在编程过程中需要注意的若干问题，代码仍然是用MATLAB写成的。</font>
 
