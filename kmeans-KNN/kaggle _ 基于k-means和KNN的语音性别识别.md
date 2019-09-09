@@ -1,7 +1,7 @@
 ﻿
 # <center><font face="宋体"> kaggle|基于k-means和KNN的语音性别识别 </font></enter>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/Gender-Recognition/tree/master/kmeans-KNN)</center>*
 
 **概要：** <font face="宋体" size = 3> 本实验是在实验“[kaggle|基于朴素贝叶斯分类器的语音性别识别](https://blog.csdn.net/ctyqy2015301200079/article/details/83346310)”和实验“[算法|k-means聚类](https://blog.csdn.net/ctyqy2015301200079/article/details/83627353)”的基础上进行的，把k-means聚类应用到语音性别识别问题中去，并同时使用KNN识别算法。有关数据集和kmeans的内容可以先看我的上两篇博文，本实验的代码依然是MATLAB。</font>
 
