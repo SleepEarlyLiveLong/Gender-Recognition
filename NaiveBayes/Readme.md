@@ -41,4 +41,4 @@ Among the files above:
 - file 'LICENSE' is the license file produced by github;
 - file 'kaggle _ 基于朴素贝叶斯分类器的语音性别识别.md' is a detailed introduction document for this project. 
 
-For more detailed information, refer to article [kaggle _ 基于朴素贝叶斯分类器的语音性别识别.md]().
+For more detailed information, refer to article [kaggle _ 基于朴素贝叶斯分类器的语音性别识别.md](https://github.com/chentianyangWHU/Gender-Recognition/blob/master/NaiveBayes/kaggle%20_%20%E5%9F%BA%E4%BA%8E%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%E7%9A%84%E8%AF%AD%E9%9F%B3%E6%80%A7%E5%88%AB%E8%AF%86%E5%88%AB.md).
