@@ -41,4 +41,4 @@ Among the files above:
 - file 'LICENSE' is the license file produced by github;
 - file 'kaggle _ 基于k-means和KNN的语音性别识别.md' is a detailed introduction document for this project. 
 
-For more detailed information, refer to article [kaggle _ 基于k-means和KNN的语音性别识别.md]().
+For more detailed information, refer to article [kaggle _ 基于k-means和KNN的语音性别识别.md](https://github.com/chentianyangWHU/Gender-Recognition/blob/master/kmeans-KNN/kaggle%20_%20%E5%9F%BA%E4%BA%8Ek-means%E5%92%8CKNN%E7%9A%84%E8%AF%AD%E9%9F%B3%E6%80%A7%E5%88%AB%E8%AF%86%E5%88%AB.md).
